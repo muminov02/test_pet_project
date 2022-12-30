@@ -1,3 +1,4 @@
+# pip install mysql-connector-python
 from mysql.connector import connect, Error
 
 
